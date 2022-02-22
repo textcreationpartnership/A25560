@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Answer to Mr. Langhorn's speech wherein he asserts his loyalty and innocence contrary to plain evidence against him in open court, the verdict of an impartial jury, and the declared sense of the late Parliament in relation to the late, horrible and bloody plot.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25560</idno>
+            <idno type="STC">Wing A3368</idno>
+            <idno type="STC">ESTC R16400</idno>
+            <idno type="EEBO-CITATION">11930202</idno>
+            <idno type="OCLC">ocm 11930202</idno>
+            <idno type="VID">51091</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25560)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51091)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 48:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Answer to Mr. Langhorn's speech wherein he asserts his loyalty and innocence contrary to plain evidence against him in open court, the verdict of an impartial jury, and the declared sense of the late Parliament in relation to the late, horrible and bloody plot.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Langhorne, Richard, 1654-1679. --  Speech of Richard Langhorn, Esq. at his execution July 14, 1679.</term>
+               <term>Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="answer">
+            <pb n="1" facs="tcp:51091:1" rendition="simple:additions"/>
+            <head>AN ANSWER TO Mr. LANGHORN'S SPEECH.</head>
+            <head type="sub">Wherein he aſſerts his Loyalty and Innocence, contrary to plain Evidence againſt him in open Court, the Verdict of an Impartial Jury, and the declared Senſe of the late PAR<g ref="char:EOLhyphen"/>LIAMENT in relation to the late horrible and Bloody PLOT.</head>
+            <p>THough the falſity of thoſe Principles, which move theſe infatuated men, by ſo ſolemnly denying of Truth, to renounce the God of Truth, is already clearly and ſufficiently demonſtrated to the World, by late Authors of moſt unſpotted Integrity and profound Learn<g ref="char:EOLhyphen"/>ing, that they would neither abuſe us, by impoſing or miſ-quoting ſuch <hi>Ro<g ref="char:EOLhyphen"/>man Catholick</hi> Authors, from whence thoſe Principles are apparently deriv'd, nor could they from want of judgement commit any Errors; yet ſuch is the force and power of the laſt words of dying men, and ſuch the great charity of living Proteſtants, that we are more apt to credit and favour them in their laſt Speeches, than by a ſevere Sentence (ſuppoſing their words evaſive and deluſory) condemn 'em to eternal torments. That the great charity of ſuch modeſt and conſcientious Proteſtants may not be abus'd, by any Tricks and Impoſtures, which are conſtantly made uſe of by the Papiſts, I ſhall endeavour, by this preſent Anſwer to Mr. <hi>Langhorn</hi>'s Speech, (as it is call'd) to con<g ref="char:EOLhyphen"/>vince the World and all good People, that as in their Lives they were guilty of moſt hainous Treaſon, ſo at their Deaths of moſt notorious Prevarication.</p>
+            <pb n="2" facs="tcp:51091:2"/>
+            <p>I ſhall begin at the latter end of his Speech, where he has theſe words:</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="excerpt">
+                        <p>1. <hi>I take it to be clear, That my Religion is the ſole cauſe, which moved my Accuſers to charge me with the Crime, for which upon their Evidence I am ad<g ref="char:EOLhyphen"/>judged to die; and that my being of that Religion, which I here profefs, was the only ground which could give them any hope to be believ'd, or which could move my Jury to believe the Evidence of ſuch men.</hi>
+                        </p>
+                        <p>2. <hi>I have had not only a Pardon, but alſo great Advantages, as to Preferments, and Eſtates offer'd unto me, ſince this Judgement was against me, in caſe I would have forſaken my Religion, and owned my ſelf guilty of the Crime charged againſt me, and charged the ſame Crimes upon others: But bleſſed be my God, who by his grace hath preſerved me from yielding to thoſe Temptations, and ſtrengthned me rather to chooſe this Death, than to ſtain my Soul with ſin, and to charge others, against truth, with Crimes, of which I do not know that any perſon is guilty.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>As to the firſt, Though Mr. <hi>Langhorn</hi> has ſaid it, no perſon will believe him, though in the Speech of a dying man. That he was only charg'd with Crimes, (though they were moſt evidently prov'd againſt him) which had no other ground or foundation, but from the venom and malice of his Accuſers, and they no other Reaſon for this ſo great malice, than that he was a profeſſor of the <hi>Roman Catholick</hi> Religion.</p>
+            <p>Firſt, It cannot appear rational, that their malice, as he pleaſes to miſcal it, ſhould be levell'd particularly againſt him, either as to his Perſon or Religion, being a <hi>Roman Catholick,</hi> ſince thoſe of that Religion have all along been moſt tenderly and mercifully dealt withal by the ſuperiour Magiſtrates, ſo long as they liv'd peaceably and quietly under Government, and did not deſign and act Treaſon againſt the Prince, or Deſtruction to the People, and Subverſion of the Government. Nor was there after the <hi>Gunpowder-Treaſon,</hi> any <hi>Roman Catholick</hi> proſecuted purely for his Religion; nay, thoſe who did incur the Penal Statutes, as they were Prieſts, were yet more favourably us'd than per<g ref="char:EOLhyphen"/>haps they merited in themſelves. So that to offer ſuch a criminal Charge and proſecution, either againſt Mr. <hi>Langhorn,</hi> or any perſon elſe, and at the ſame time really falſe, from a difference in Religion only, is no practice amongſt Proteſtants, nor ever was, but is notoriouſly known to be allowed, encoura<g ref="char:EOLhyphen"/>ged, and commanded, in the Principles and Practices of the Papiſts, againſt all (and with the extreameſt ſeverities) who are of a different opinion from the <hi>Roman</hi> Church.</p>
+            <p>Of this, in Queen <hi>Maries</hi> Reign, we have voluminous Inſtances, of their bloody Cruelties againſt Proteſtants, not for Treaſon againſt the Prince, nor for endeavouring the Subverſion of Government, but only for being Prote<g ref="char:EOLhyphen"/>ſtants and not Papiſts.</p>
+            <p>Secondly, It is no wonder if he charges his Accuſers with malice, and that with ſo much confidence and untruth; for now he proceeds to as high Re<g ref="char:EOLhyphen"/>flections againſt his Governours, That he was offer'd by them not only a Par<g ref="char:EOLhyphen"/>don to his Life, but Promotions, and all worldly Advantages, would he have deſerted his Religion, and acknowledged thoſe Crimes to be true he ſtood charg'd withal, and charge them upon others, who by his inference muſt be ſuppoſed innocent.</p>
+            <pb n="3" facs="tcp:51091:2"/>
+            <p>That Mr. <hi>Langhorn,</hi> from the unbounded Clemency of his Prince to all his Subjects, might preſume upon the ſame mercy others have received, I do be<g ref="char:EOLhyphen"/>lieve; but then upon thoſe terms on which God Almighty pardons, a ſincere Confeſſion, and humble Contrition. Or if ever ſuch a mercy was offer'd to him, never was it more abus'd, never more betray'd; when what was offer'd, was in no other ſence, and for no other reaſon, than that he would diſcover the naked truth of what he knew, what he acted, that thoſe Miſchiefs which impend over King and Country, might be prevented, and they who were thoſe deviliſh Engines, either by inventing or promoting of them, and yet lay un<g ref="char:EOLhyphen"/>diſcover'd, might be known, and brought to publick Juſtice. I could not have believed, that ſo great mercy could have met with ſo baſe ingratitude, that after ſo noble and generous Offers, which, he ſays, were tendred to him, he ſhould make returns of ſo high injuſtice, and place the reaſon of thoſe merciful Offers to no other account, than that by preſerving of him, and his charging of others, who were innocent, they might have a fair opportunity and colour of Juſtice, to maſſacre the whole Flock of <hi>Roman Catholick</hi> Pro<g ref="char:EOLhyphen"/>feſſors. As no moderate perſon, or who is Maſter of common ſenſe, but can eaſily diſcern the malicious Interpretation he has made of theſe merciful Ten<g ref="char:EOLhyphen"/>ders, ſo will he at the ſame time confeſs, he has moſt deſervedly ſuffer'd for thoſe notorious Treaſons he was found guilty of, and condemned for.</p>
+            <p>As to the other parts and members of his Speech, he ſays no more in ſence, than what was ſaid before by the five <hi>Jeſuits,</hi> his Predeceſſors in puniſhment; only as theirs ſavour'd more of Oratory, his anſwerable to his profeſſion; is penn'd with that complication and repetition of words to the ſame ſence, in Lawyers phraſe, that had it been, as his laſt Speech, his laſt <hi>Will and Teſtament,</hi> it could not have been with more care and regard to his true ſence and mean<g ref="char:EOLhyphen"/>ing, transfer'd to Poſterity. This may ſeem a very prevalent and tempting Argument, to believe, that as he particularly ſtudied by his expreſſions to be rightly underſtood, ſo he did at the ſame time ſpeak the naked truth from the bottom of his Soul, without any fallacy or colluſion whatſoever.</p>
+            <p>That he did not ſo, the proof in Court ſo evident againſt him, is a moſt convincing Argument.</p>
+            <p>The next Quere to be anſwered, is, How he, or any perſon or perſons can expect to be ſaved, when at the inſtant of death, they do ſo obſtinately deny the truth of what in their Conſciences they are convinced is ſo, and not only this, but to imprecate eternal puniſhment upon their departing Souls, if they have not faithfully and ſincerely diſcharged themſelves of the truth to their utmoſt knowledge.</p>
+            <p>The Reaſons why they do ſo peremptorily deny all Treaſons, Murders, or whatever may be, or is poſitively and directly prov'd againſt them, is, in that they receive their Abſolution upon ſuch terms, that they are obliged to die not only concealing them, but utterly denying; otherwiſe they not only forfeit the whole benefit of their Abſolution, but are <hi>ipſo facto</hi> excluded the Pale of the Church, and, as Renegadoes, all future hopes of Salvation. It has been publickly reported by a perſon concerned in the Murder of Sir <hi>Ed<g ref="char:EOLhyphen"/>mondbury Godfrey,</hi> that could he in Priſon have procured an opportunity for a Prieſt to come to him, and to have abſolv'd him, he would never have ac<g ref="char:EOLhyphen"/>knowledg'd, what he has ſince publickly confeſt before Authority, though he had been courted, and offer'd a greater temptation, than Mr. <hi>Langhorn</hi>
+               <pb n="4" facs="tcp:51091:3"/>had, an earthly Crown for his Reward; ſo great power and awe hath the Abſolution of the Prieſt, over the Senſe and Conſciences of their Votaries, and ſtricteſt Profeſſors.</p>
+            <p>Secondly, From the Doctrine of their Church, to Equivocate is no ſin, no not at the hour of Death, if it is to an Heretick, or for the Service of the <hi>Ca<g ref="char:EOLhyphen"/>tholick</hi> Cauſe: This, ſufficient proofs from their own Authors, have avowed to the World. <hi>Cauſabon,</hi> pag. 202. ſpeaking of <hi>Garnet</hi>'s Opinion of the law<g ref="char:EOLhyphen"/>fulneſs of Equivocation at the hour of Death, in his Papers communicated to King <hi>James,</hi> ſays, <hi>Since it is lawful</hi> (and he concludes it ſo) <hi>to uſe this in the courſe of his Life, why may it not be us'd alſo by a dying man?</hi>
+            </p>
+            <p>Nor do they only Equivocate, but by compleating the ſence in their own thoughts, by a mental Reſervation, paralogize upon their Auditors, Equivo<g ref="char:EOLhyphen"/>cate upon their own Equivocation; of ſo doubtful ſence are their beſt ex<g ref="char:EOLhyphen"/>preſſions in the extreameſt Agonies of Death.</p>
+            <p>To conclude, Though I cannot heartily believe this to have been the ge<g ref="char:EOLhyphen"/>nuine product of Mr. <hi>Langhorn</hi>'s thoughts at the hour of Death, but rather penn'd by the Wily Prieſt, to cajoll the World, and conciliate a Reputation to that Cauſe, which has of late ſuffer'd ſo much; yet admit it to be ſo, I muſt agree, though a profound Lawyer, I am not of his ſence, but think his laſt, the worſt <hi>Conveyance</hi> that e're was drawn.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
